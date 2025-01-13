@@ -1,8 +1,9 @@
-# Country Flags App
+# Country Flags App 🌍
 ------------------
 Country Flags App is an Android application that allows users to explore different countries, view their flags, and get more information about each country, including its capital, region, language, and currency. The app fetches country data from a remote **API** and stores it locally using the **Room Database** for offline access.
 
 ## Technologies Used 🚀🔧
+
 - **Kotlin**: The primary language for Android development.
 - **Jetpack Libraries**:
   - **[Room](https://developer.android.com/topic/libraries/architecture/room)**: Local database for storing country data offline.
@@ -21,15 +22,16 @@ Country Flags App is an Android application that allows users to explore differe
 - **[ConstraintLayout](https://developer.android.com/reference/android/widget/ConstraintLayout)**: For flexible and responsive UI design.
 - **[RxJava](https://github.com/ReactiveX/RxJava)**: For handling asynchronous operations and managing complex streams (optional for future updates).
 
-## Preview
+## Preview 🎞
+----------
 ![CountryFlagsApp2025-01-1222-46-09-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5ed02710-a810-4cce-953a-84517349eac1)
 
-## Screenshots
+## Screenshots 📸
+------------
 
 | **Image 1** | **Image 2** |
 |-------------|-------------|
-| ![Image 1]() |
-| **Image 3** | **Image 4** |
-| ![Image 3]() |
-
+|![CountryFlagsApp 12 01 2025 22_47_50](https://github.com/user-attachments/assets/d1747195-644d-44d3-9c37-3c7df6137b94)) |![CountryFlagsApp 12 01 2025 22_48_47](https://github.com/user-attachments/assets/4dc83152-85d3-42f4-b347-8e317f833369)) |
+| **Image 3** |
+|![CountryFlagsApp 12 01 2025 22_48_47](https://github.com/user-attachments/assets/4dc83152-85d3-42f4-b347-8e317f833369)) |
 
